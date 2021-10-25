@@ -1,7 +1,5 @@
 # Geothermal
 
-## Geothermal for 6 crustal structure models
-### Moho depth 40 km, 60 km, 80 km
-### 2-layers crust has half felsic and half intermediate
-### 3-layers crust 1/3 felsic+1/3 intermediate +1/3 mafic
-### Metherod after Arthmieva and Mooney, 2001
+## Geothermal dataset of the North China Craton
+### Details of the method is in: Xia, B., Thybo, H., & Artemieva, I. M. (2020). Lithosphere mantle density of the North China Craton. Journal of Geophysical Research: Solid Earth, 125, e2020JB020296. https://doi.org/10.1029/2020JB020296
+
